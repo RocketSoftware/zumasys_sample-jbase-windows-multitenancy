@@ -38,4 +38,11 @@ Each tenant has it's own system file.  It can only see it's own system.
 3. Unique spooler.  You can restart it with SP-NEWTAB
 4. You can create additional accounts within this tenant.
 
+## Shared items
+
+The Admin account in the global directory is setup to demonstrate how you can share code.
+
+1. bin and lib directories are shared to both tenants
+2. Any files create in the Admin directory are shared.
+
 
