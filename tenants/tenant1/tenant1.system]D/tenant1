@@ -22,9 +22,9 @@ d3
 C:\dbms\tenants\tenant1\TENANT1
 C:\dbms\tenants\tenant1\TENANT1\bin
 C:\dbms\tenants\tenant1\TENANT1\lib
-C:\dbms\tenants\tenant1\TENANT1\bin
-C:\dbms\tenants\tenant1\TENANT1\lib
-C:\dbms\tenants\tenant1\TENANT1
+C:\dbms\global\admin\bin;C:\dbms\tenants\tenant1\TENANT1\bin
+c:\dbms\global\admin\lib;C:\dbms\tenants\tenant1\TENANT1\lib
+c:\dbms\global\admin;C:\dbms\tenants\tenant1\TENANT1
 C:\dbms\tenants\tenant1\TENANT1\MD
 
 

@@ -1,5 +1,5 @@
 D
-C:\dbms\tenants\tenant2\tenant2
+C:\dbms\tenants\tenant2\TENANT2
 
 
 
@@ -19,13 +19,13 @@ C:\dbms\tenants\tenant2\tenant2
 
 ESYSTEM_START
 d3
-C:\dbms\tenants\tenant2\tenant2
-C:\dbms\tenants\tenant2\tenant2\bin
-C:\dbms\tenants\tenant2\tenant2\lib
-C:\dbms\tenants\tenant2\tenant2\bin
-C:\dbms\tenants\tenant2\tenant2\lib
-C:\dbms\tenants\tenant2\tenant2
-C:\dbms\tenants\tenant2\tenant2\MD
+C:\dbms\tenants\tenant2\TENANT2
+C:\dbms\tenants\tenant2\TENANT2\bin
+C:\dbms\tenants\tenant2\TENANT2\lib
+C:\dbms\global\admin\bin;C:\dbms\tenants\tenant2\TENANT2\bin
+c:\dbms\global\admin\lib;C:\dbms\tenants\tenant2\TENANT2\lib
+c:\dbms\global\admin;C:\dbms\tenants\tenant2\TENANT2
+C:\dbms\tenants\tenant2\TENANT2\MD
 
 
 
