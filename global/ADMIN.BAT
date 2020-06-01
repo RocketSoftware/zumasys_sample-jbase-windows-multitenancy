@@ -1,0 +1,2 @@
+SET JEDIFILENAME_SYSTEM=C:\dbms\global\SYSTEM]D
+
